@@ -8,6 +8,32 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with ove
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asubedi8&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asubedi8&theme=radical" alt="GitHub Streak Stats" width="400">
+</p>
+
+
+
+
+
+---
+
 ## 🌟 About Me
 
 - **Education**: 
@@ -30,19 +56,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with ove
   - **E-commerce Specialist**: Experienced in crafting user interfaces for e-commerce platforms using the robust Magento PHP framework, delivering immersive online shopping experiences.
   - **Python Scripting**: Skilled in developing Python scripts to integrate APIs with databases, optimizing data flow for efficiency.
   - **Docker Advocate**: Passionate about containerized development, enhancing agility and deployment efficiency.
-
----
-
-## 🛠️ Skills & Expertise
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" alt="Coding Skills" width="300">
-</p>
-
-- **Languages**: JavaScript (React/Redux), Java, C++, HTML, CSS, Python, SQL
-- **Frameworks**: React, Node.js, Express, Magento
-- **Tools**: Docker, Git, JIRA, Agile methodologies (Scrum and Kanban)
-- **Other**: API integration, Performance optimization, WCAG accessibility compliance
 
 ---
 

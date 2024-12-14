@@ -18,15 +18,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with ove
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asubedi8&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asubedi8&theme=radical" alt="GitHub Streak Stats" width="400">
-</p>
 
 
 

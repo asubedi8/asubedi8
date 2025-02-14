@@ -28,19 +28,22 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with ove
 ## 🌟 About Me
 
 - **Education**: 
-  - **Master's**: Accelerated Master's in **Graphic Information Technology** with a concentration in **Front-End Development** at **Arizona State University**
-  - **Bachelor's**: **Graphic Information Technology** with a focus on **Full Stack Development** at **Arizona State University**
+  - **Master's**: Accelerated Master's in ** Information Technology** with a concentration in **Software Engineering** at **Arizona State University**
+  - **Bachelor's**: **Information Technology** with a focus on **Full Stack Development** at **Arizona State University**
   - Relevant Courses: JavaScript, Java, C++, HTML, CSS, SQL, Discrete Math, Data Structures, Multimedia Design, Website Information and Usability, and Full Stack Development Concepts
 
 - **Work Experience**:
   - **Associate Full Stack Developer** at **Justrite Safety Group**: 
-    - Designing and developing scalable web applications to improve business efficiency.
-    - Implementing front-end solutions with modern frameworks like React while ensuring seamless integration with backend APIs.
-    - Utilizing Scrum methodologies to manage development cycles and ensure timely deliverables.
+    - Utilized React to develop engaging and responsive UI components, thereby enhancing the overall user experience, and seamlessly integrated these components into Magento e-commerce interfaces using PHP frameworks to deliver intuitive and effective online shopping environments.
+    - Developed Python scripts as part of e-commerce development, facilitating seamless REST API integration with NoSQL databases, resulting in optimized data flow and significantly improved data processing efficiency.
+    - Integrated Salesforce and HubSpot to optimize CRM and marketing automation. Customized Salesforce for lead management and HubSpot for targeted campaigns, ensuring seamless data synchronization for enhanced sales and marketing strategies.
+    - Leveraged Google Analytics, Google Tag Manager, and Google Search Console to track crucial metrics, manage tracking tags, and enhance website visibility and performance in search results. This resulted in improved user experience and heightened conversion rates.
+    - Utilized Jira for efficient project management, ensuring seamless coordination and organization of tasks throughout the development lifecycle.
+    - Containerized the existing web development codebase using Docker to demonstrate proficiency in managing and deploying applications in a scalable and portable manner.
       
-  - **Intern** at **DMI - Digital Transformation Services**:
-    - Contributed to full-stack web projects, focusing on responsive design and improved usability.
-    - Worked closely with stakeholders to gather requirements and deliver on business objectives.
+  - **Associate Front-End Developer** at **DMI - Digital Transformation Services**:
+    - Collaborated with the internal design team to ensure Agile communication between engineering and design during development.
+    - Built and maintained front-end dashboards, along with components like metrics, widgets, navigation elements, and other reusable components along with writing tests in Jest.
 
 - **Technical Expertise**:
   - **React Enthusiast**: Proficient in building seamless and captivating UI/UX designs using React and Redux, with expertise in state management, middleware, and containers.
